@@ -13,6 +13,6 @@ Hacker Brewery is more than a game studio; it's a place where creativity meets c
 
 # Studio Links
 
-[Hacker Brewery Game Studio Document](https://docs.google.com/document/d/1L92mgrbgYJn7QODuwbncP5RID5u9OAZOps_7CjLnujA/edit?usp=sharing)
-[LobsterOn Game Design Document](https://docs.google.com/document/d/1Kjuwy4iQ7rId6hEOgDucPohCn2UzXhB1PgBdeqBNOc4/edit?usp=sharing)
-[LobsterSim Game Design Document](https://docs.google.com/document/d/1Nrdt7sfkwFVOhQqk441_fckoWaRay2IoSjVT33P9txQ/edit?usp=sharing)
+- [Hacker Brewery Game Studio Document](https://docs.google.com/document/d/1L92mgrbgYJn7QODuwbncP5RID5u9OAZOps_7CjLnujA/edit?usp=sharing)
+- [LobsterOn Game Design Document](https://docs.google.com/document/d/1Kjuwy4iQ7rId6hEOgDucPohCn2UzXhB1PgBdeqBNOc4/edit?usp=sharing)
+- [LobsterSim Game Design Document](https://docs.google.com/document/d/1Nrdt7sfkwFVOhQqk441_fckoWaRay2IoSjVT33P9txQ/edit?usp=sharing)
