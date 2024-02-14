@@ -11,7 +11,7 @@ At the core of our studio are a few principles we hold dear:
 # Studio Summary 🏗
 Hacker Brewery is more than a game studio; it's a place where creativity meets code. Inspired by the endless possibilities within the gaming world, we're here to craft experiences that entertain, challenge, and inspire.
 
-# Studio Links
+# Studio Links 🖇️
 
 - [Hacker Brewery Game Studio Document](https://docs.google.com/document/d/1L92mgrbgYJn7QODuwbncP5RID5u9OAZOps_7CjLnujA/edit?usp=sharing)
 - [LobsterOn Game Design Document](https://docs.google.com/document/d/1Kjuwy4iQ7rId6hEOgDucPohCn2UzXhB1PgBdeqBNOc4/edit?usp=sharing)
