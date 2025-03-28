@@ -1,15 +1,17 @@
-# Welcome to Hacker Brewery! 🎮
-Hacker Brewery is a dynamic game studio founded in 2024 by Tristan, Saahel, and Ronald. Our mission is to create games that not only we love to play but will resonate with gamers worldwide. With a focus on innovation and enjoyment, we're on a quest to bring fresh and engaging experiences to the gaming community.
+Welcome to Hacker Brewery 🧪
+Hacker Brewery is a nimble software studio founded in 2024. Our mission is to build experiences that we love—and that others will love too. From tools to games to exploratory tech, we focus on crafting high-quality, playful, and useful software that reflects our curiosity and creativity.
 
-# Our Game Plan 🕹
-At the core of our studio are a few principles we hold dear:
+Our Build Philosophy ⚙️
+At the core of our studio are a few simple but powerful principles:
 
-1. Enjoyment as a Metric: We believe that a game we enjoy playing is a strong indicator that others will too.
-2. Close-knit Team: Our team consists of just us three ඞ, ensuring tight collaboration and shared vision.
-3. Fun and Engagement: We're dedicated to making game development an enjoyable and engaging process we continually return to.
+Build What We’d Use: We trust our own instincts. If we find it fun, useful, or delightful, others probably will too.
 
-# Studio Summary 🏗
-Hacker Brewery is more than a game studio; it's a place where creativity meets code. Inspired by the endless possibilities within the gaming world, we're here to craft experiences that entertain, challenge, and inspire.
+Tight Team, Shared Vision: A small, close-knit team enables fast iteration and aligned thinking.
+
+Creative Feedback Loops: We approach projects like experiments—test fast, learn fast, keep it fun.
+
+Studio Summary 🧱
+Hacker Brewery is more than just a studio—it’s a mindset. We blend curiosity, technical skill, and creative storytelling to build projects that blur the line between software and experience. Whether it’s a tool, game, or weird prototype, we’re here to ship ideas that speak for themselves.
 
 # Studio Links 🖇️
 
